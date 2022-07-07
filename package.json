@@ -1,0 +1,23 @@
+{
+  "name": "marvelparallaxweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josecossi89/site-web-parallax-marvel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josecossi89/site-web-parallax-marvel/issues"
+  },
+  "homepage": "https://github.com/josecossi89/site-web-parallax-marvel#readme",
+  "dependencies": {
+    "lax.js": "^2.0.3"
+  }
+}
