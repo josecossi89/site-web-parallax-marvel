@@ -1,6 +1,8 @@
 body {
   background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
   overflow-x: hidden;
+  height: 7000px;
 }
 
 .logo {
@@ -19,4 +21,17 @@ body {
   width: 100%;
   align-items: center;
   height: 110vh;
+}
+
+.scroll-tip {
+  color: white;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 48px;
+}
+
+.ironman-title {
+  text-align: center;
+  padding: 100px 0;
+  font-size: 15em;
 }
