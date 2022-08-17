@@ -7,13 +7,13 @@
 
 <!----------------------------------- Description Section------------------------------------>
 
-<h3>
+<h4>
     <i>- Marvel Web Parallax es una web elaborada con HTML5, CSS3 y JavaScript Vanilla</i>
-</h3>
+</h4>
 
-<h3>
+<h4>
     <i>- Hacemos uso de la libreria lax.js, para crear los efectos de movimiento en las diferentes partes de la web</i>
-</h3>
+</h4>
 <br>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
@@ -32,9 +32,9 @@
 <!----------------------------------- Deploy Links Section ------------------------------------>
 
 <h2><i>Deploy</i></h2>
-<h3>
+<h4>
     <i>- Este proyecto se ha llevado a produccion en la plataforma de Vercel, si deseas conocerla,haz click sobre el icono</i>
-</h3>
+</h4>
 <br>
 <p align="left">
     <a href="https://linkedin.com/in/m-sehrawat">
@@ -46,9 +46,9 @@
 <!----------------------------------- Source Links Section ------------------------------------>
 
 <h2><i>Creditos</i></h2>
-<h3>
+<h4>
     <i>* Si deseas conocer la fuente de inspiracion para este lindo proyecto, puedes visitar en YouTube el canal de nuestro gran amigo Marcos Rivas</i>
-</h3>
+</h4>
 <br>
 <p align="left">
     <a href="https://www.youtube.com/watch?v=THR7f2kMGEg&t=960s">
